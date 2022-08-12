@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/hujie-frank/SENet/blob/master/figures/SE-pipeline.jpg">
+  <img src="https://github.com/Les1iey/LandmarkLocalization/blob/main/data/Example.png">
 </div>
 <p align="center">
 
