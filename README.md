@@ -1,11 +1,5 @@
 
 
-## Examples:
-<div align="center">
-  <img src="https://github.com/Les1iey/LandmarkLocalization/blob/main/data/Example.png">
-</div>
-<p align="center">
-
 
 ## Data Preparation:
 Download the [head](https://figshare.com/s/37ec464af8e81ae6ebbf), [hand](https://ipilab.usc.edu/research/baaweb) datasets.
