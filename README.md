@@ -1,3 +1,6 @@
+
+
+## Examples:
 <div align="center">
   <img src="https://github.com/Les1iey/LandmarkLocalization/blob/main/data/Example.png">
 </div>
@@ -16,7 +19,13 @@ Prepare datasets in the following directory structure. Take the head dataset as 
     * RawImage      
     	* \*.bmp
   
- 
+ ## Examples:
+<div align="center">
+  <img src="https://github.com/Les1iey/LandmarkLocalization/blob/main/data/Example.png">
+</div>
+<p align="center">
+
+
 Now:
 ```bash
 python preprocessing.py
