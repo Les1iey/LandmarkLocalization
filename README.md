@@ -19,6 +19,10 @@ Prepare datasets in the following directory structure. Take the head dataset as 
 </div>
 <p align="center">
 
+<div align="center">
+  <img src="https://github.com/Les1iey/LandmarkLocalization/blob/main/data/Table1.png">
+</div>
+<p align="center">
 
 Now:
 ```bash
